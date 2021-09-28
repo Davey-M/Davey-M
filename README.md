@@ -6,7 +6,9 @@ I'm interested in web development because I enjoy graphic design and love the ch
 I would like to make beautifull websites with practical applications in the real world.
 
 If you want to learn more about my work you can take a look at my projects on GitHub.<br>
-You can also find my contact info on my resume here 👉 https://davey-m.github.io/resume
+You can also find my contact info on my resume below 👇
+
+> https://davey-m.github.io/resume
 
 <!---
 - 👋 Hi, I’m @Davey-M
