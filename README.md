@@ -1,6 +1,6 @@
 ### Hello, I'm @Davey-M
 
-I am an aspiring web developer currently learning JavaScript.
+I am an aspiring web developer currently in school at Prime Digital Academy.
 
 I'm interested in web development because I enjoy graphic design and love the challenge that programming offers.<br>
 I would like to make beautifull websites with practical applications in the real world.
